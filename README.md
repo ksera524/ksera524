@@ -1,3 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksera524)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksera524)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=NonokaM&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NonokaM&theme=vue-dark&layout=compact" />
+</div>
